@@ -1,4 +1,5 @@
 # Frontend Mentor - Rock, Paper, Scissors
+you can play it here: https://sallahtech.github.io/frontend-mentors-challenges/
 
 ![Design preview for the Rock, Paper, Scissors coding challenge](./design/desktop-preview.jpg)
 
